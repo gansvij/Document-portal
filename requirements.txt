@@ -3,6 +3,11 @@ python-dotenv
 langchain-community
 langchain_groq
 langchain_openai
-
-
+langchain-huggingface
+transformers
+sentence-transformers
+huggingface-hub
+pypdf
+faiss-cpu
+torch
 -e.
