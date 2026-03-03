@@ -3,6 +3,7 @@ python-dotenv
 langchain-community
 langchain_groq
 langchain_openai
+langchain_google_genai
 langchain-huggingface
 transformers
 sentence-transformers
